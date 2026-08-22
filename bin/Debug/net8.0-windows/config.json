@@ -1,0 +1,14 @@
+{
+  "CleanTemp": true,
+  "PowerPlan": true,
+  "FlushRam": true,
+  "Network": false,
+  "CpuUnpark": false,
+  "Telemetry": false,
+  "Winsock": false,
+  "EventLogs": false,
+  "GpuCache": true,
+  "AggressiveRam": false,
+  "DisableVisualEffects": false,
+  "CustomGames": "mygame, customapp"
+}
