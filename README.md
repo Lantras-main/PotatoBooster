@@ -1,4 +1,4 @@
-# PotatoBooster 🚀
+# PotatoBooster
 
 PotatoBooster is an open-source WPF application designed to optimize low-end Windows PCs for gaming. It automates system tweaks, frees up memory, and prioritizes game processes in a single click.
 
